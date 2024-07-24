@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selene's Nexus World Map</title>
+    <style>
+        .image-container {
+            position: relative;
+            width: 4096px;
+            height: 4096px;
+        }
+        .image-container img {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+        .slider-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img id="image1" src="Map Height Compressed.png" alt="Height">
+        <img id="image2" src="Map Biomes.png" alt="Biomes">
+        <img id="image3" src="Map Coast.png" alt="Coast">
+        <img id="image4" src="Map Text.png" alt="Text">
+    </div>
+    <div class="slider-container">
+        <label for="slider1">Height:</label>
+        <input type="range" id="slider1" min="0" max="100" value="100">
+        <br>
+        <label for="slider2">Biomes (Unfinished):</label>
+        <input type="range" id="slider2" min="0" max="100" value="10">
+        <br>
+        <label for="slider3">Coast:</label>
+        <input type="range" id="slider3" min="0" max="100" value="20">
+        <br>
+        <label for="slider4">Text (Unfinished):</label>
+        <input type="range" id="slider4" min="0" max="100" value="50">
+    </div>
+
+    <script>
+        const image1 = document.getElementById('image1');
+        const image2 = document.getElementById('image2');
+        const image3 = document.getElementById('image3');
+        const image4 = document.getElementById('image4');
+
+        image1.style.opacity = 1;
+        image2.style.opacity = 0.1;
+        image3.style.opacity = 0.2;
+        image4.style.opacity = 0.5;
+
+        document.getElementById('slider1').addEventListener('input', function() {
+            image1.style.opacity = this.value / 100;
+        });
+
+        document.getElementById('slider2').addEventListener('input', function() {
+            image2.style.opacity = this.value / 100;
+        });
+
+        document.getElementById('slider3').addEventListener('input', function() {
+            image3.style.opacity = this.value / 100;
+        });
+
+        document.getElementById('slider4').addEventListener('input', function() {
+            image4.style.opacity = this.value / 100;
+        });
+    </script>
+</body>
+</html>
