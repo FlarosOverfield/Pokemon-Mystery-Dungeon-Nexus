@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Map
-permalink: /map/
+permalink: /Map/
 ---
 {% include Map.html %}
