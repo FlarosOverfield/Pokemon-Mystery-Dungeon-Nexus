@@ -85,3 +85,7 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+# Every single HTML file's name must go here because otherwise the deployer can't find it for some fucked up reason
+include:
+  - Map
