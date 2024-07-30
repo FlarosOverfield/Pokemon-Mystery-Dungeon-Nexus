@@ -3,4 +3,4 @@ layout: default
 title: Map
 permalink: 
 ---
-{% include Map/Map.html %}
+{% include_relative Map/Map.html %}
