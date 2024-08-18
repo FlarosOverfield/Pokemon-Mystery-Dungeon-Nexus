@@ -1,109 +1,109 @@
-ID,Status,Description,Type,Icon,Turns
-,Miracle Eye,"All attacks made by the Pokémon will ignore the target's resistances, immunities, and evasion changes.",+,Sight_Red,
-,Exposed,"All attacks made on the Pokémon will ignore its resistances, immunities, and evasion changes.",-,Exposed_Yellow,
-,Area Counter,All damage done to this Pokémon of a certain category of moves will be reflected on all foes within 3 tiles. ,+,Shield_DarkBlue,
-,Metal Burst,All damage done to this Pokémon will be reflected on all nearby foes. This status wears off if the Pokémon moves.,+,Shield_DarkBlue,
-,Destiny Bond,Any damage done to this Pokémon from direct attacks is also done to the target of the Destiny Bond. This status wears off if the Pokémon moves.,+,Skull_DarkBlue,
-,Grudge,Enemies that damage this Pokémon with attacks will have all their moves lose PP. ,,Shield_Purple,
-,Pursuit,"Every time the target makes a move, this Pokémon will automatically warp to it. ",,Exclaim_DarkBlue,
-,Regeneration,The Pokémon gradually regains HP each turn. ,,Cycle_Green,
-,Poisoned,The Pokémon gradually takes damage every time it attacks.,,Skull_White,
-,Type Converted,The Pokémon has all of its moves converted to a single type.,,Sword_Yellow,
-,Illusion,The Pokémon has disguised itself as a different Pokémon.,,,
-,Perish Song,"The Pokémon has heard Perish Song, and its HP will be set to 1 when the countdown reaches zero.",,,
-,Blinker,"The Pokémon has its Attack Range limited, allowing it to hit only targets in front. ",,Blind_Blue,
-,Type Boosted,The Pokémon has moves of a certain type boosted. ,,Arrow_Up_Red,
-,Disable,The Pokémon has one of its moves disabled and cannot use it.,,,
-,Zenith,"The Pokémon has reached Zenith state, and is ready to unleash a devastating Z-Move!",,,
-,Stockpile,"The Pokémon has stockpiled energy, to use in the moves Swallow or Spit Up. It also increases its Defense and Special Defense. ",,,
-,Shopkeeper,The Pokémon is a shopkeeper and cannot be recruited. Don't even try attacking it!,,,
-,Power Charged,"The Pokémon is able to use moves without charging or recharging, and its PP is prevented from dropping. ",,,
-,Asleep,The Pokémon is asleep and incapable of any action until it wakes up. This status wears off if the Pokémon is attacked.,,Sleep,
-,Shadow,The Pokémon is being consumed by Shadow and can only be recruited after fainting it. You will need to purify them after!,,,
-,Endure,"The Pokémon is bracing itself, preventing it from fainting from a direct attack. This status wears off if the Pokémon moves.",,Exclaim_Red,
-,Aura Burst,The Pokémon is bursting with a fiery aura! All negative status conditions will only last 1 turn!,,,
-,Charging Move,The Pokémon is charging an incredibly powerful move! It will unleash the move on its next turn.,,,
-,Electric Charge,"The Pokémon is charging electrical energy, boosting the power of an Electric-type attack. ",,,
-,Confused,"The Pokémon is confused, causing its movements and attacks to vary wildly. Attacks that target foes can also target friends, and vice versa.",,Confuse,
-,Powder,The Pokémon is covered in a powder that causes an explosion when exposed to fire or electricity.,,Exclaim_White,
-,Cringing,The Pokémon is cringing and cannot attack or use items. This status wears off on the next turn.,,,
-,Cursed,The Pokémon is cursed and will take damage each time it attacks a foe. ,,Skull_Red,
-,Digging,"The Pokémon is digging underground and can avoid most moves and obstacles. It will resurface in a few turns, or when it chooses to attack.",,,
-,Rage Powder,The Pokémon is enraged by the enemy and cannot target anyone else with any moves or items. ,,Fist_Red,
-,Telekinesis,"The Pokémon is floating from telekinesis, preventing it from moving or avoiding attacks. ",,,
-,Flying,"The Pokémon is flying and can avoid most moves and obstacles. It will drop back down in a few turns, or when it chooses to attack.",,,
-,Focus Energy,The Pokémon is focused and will land a critical hit. This status wears off if the Pokemon is hit.,,Sword_Pink,
-,Frozen,The Pokémon is frozen and incapable of acting or being affected by moves. This status wears off if the Pokémon is hit by a Fire-type attack.,,,
-,Encore,"The Pokémon is given an encore, forcing it to repeat the last move it used. ",,Exclaim_Pink,
-,Super Mobile,The Pokémon is given the ability to traverse walls.,,,
-,Slip,The Pokémon is given the ability to traverse water.,,,
-,Diving,"The Pokémon is hiding underwater and can avoid most moves. It will resurface in a few turns, or when it chooses to attack.",,,
-,Immobilized,The Pokémon is immobilized and cannot move. ,,,
-,Bouncing,The Pokémon is in mid-air from a bounce and can avoid most moves. It will unleash the move on its next turn.,,,
-,In Love,The Pokémon is infatuated with the enemy and cannot target it with any moves or items. ,,Exclaim_Pink,
-,Invisible,The Pokémon is invisible and cannot be seen by other Pokémon. ,,,
-,Magnet Rise,"The Pokémon is levitating with electromagnetism, allowing it to avoid Ground-type attacks. ",,Cycle_Yellow,
-,Decoy,"The Pokémon is made into a Decoy, making it a target of everyone's attacks. ",,,
-,Paralyzed,The Pokémon is paralyzed and cannot attack in consecutive turns. ,,,
-,Heal Block,The Pokémon is prevented from restoring its HP. ,,X_Gray,
-,Torment,The Pokémon is prevented from using the same move twice in a row. ,,Exclaim_DarkBlue,
-,Status Protection,The Pokémon is protected from a certain status effect. ,,Shield_Brown,
-,Detect,The Pokémon is protected from all moves. This status wears off if the Pokémon attacks.,,Shield_Brown,
-,Protect,The Pokémon is protected from all moves. This status wears off if the Pokémon attacks.,,Shield_Green,
-,Stat Charged,"The Pokémon is protected from all stat changes, including its own.",,Cycle_White,
-,Lucky Chant,The Pokémon is protected from critical hits and the additional effects of attacking moves. ,,Cycle_White,
-,Type Protected,The Pokémon is protected from moves of a certain type. ,,Shield_Green,
-,Quick Guard,The Pokémon is protected from moves that have a long range.,,Shield_Red,
-,Wide Guard,The Pokémon is protected from moves that hit in a wide range. ,,Shield_White,
-,Safeguard,The Pokémon is protected from negative status effects with a veil. ,,Shield_Tan,
-,Belch,"The Pokémon is ready to belch, unleashing the attack whenever it eats a food item. ",,Exclaim_Purple,
-,Retaliate,"The Pokémon is ready to retaliate, unleashing the move whenever a nearby foe attacks an ally. ",,Sword_Brown,
-,Snatch,The Pokémon is ready to snatch any stat-boosting move that foes use on themselves. ,,Question_DarkBlue,
-,Fire Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. ,,Sword_Brown,
-,Grass Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. ,,Sword_Brown,
-,Water Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. ,,Sword_Brown,
-,Bind,"The Pokémon is rendered incapable of any action, and takes gradual damage from the foe. ",,,
-,Paused,The Pokémon is rendered incapable of taking any action. ,,,
-,Embargo,"The Pokémon is rendered incapable of using any items, and its held item item loses its effect. ",,X_Brown,
-,Roosting,"The Pokémon is roosting, eliminating its Flying-type matchups. This status wears off when the Pokémon moves.",~,,
-,Biding,"The Pokémon is storing energy for an attack. In a few turns, it will unleash the energy, doing double the amount of damage it took while biding.",,,
-,Aqua Ring,The Pokémon is surrounded by a veil of water that gradually restores its HP. ,,Cycle_Blue,
-,Mist,"The Pokémon is surrounded in mist, preventing others from dropping its stats. ",,Shield_White,
-,Taunted,The Pokémon is taunted into only using attacking moves. ,,Fist_DarkBlue,
-,Follow Me,The Pokémon is the center of attention and will redirect any attack targetting its allies. ,,Exclaim_Pink,
-,Infestation,"The Pokémon is trapped by an infestation, taking gradual damage and preventing it from moving. ",,,
-,Fire Spin,"The Pokémon is trapped in a vortex of fire, taking gradual damage and preventing it from moving. ",,,
-,Whirlpool,"The Pokémon is trapped in a whirlpool, taking gradual damage and preventing it from moving. ",,,
-,Sand Tomb,"The Pokémon is trapped in quicksand, taking gradual damage and preventing it from moving. ",,,
-,Vined,"The Pokémon is trapped in vines, taking gradual damage and preventing it from moving. ",,,
-,Yawning,The Pokémon is yawning and will fall asleep in a few turns.,,Yawn,
-,Nightmare,The Pokémon takes gradual damage every turn when it is sleeping. ,,Skull_Pink,
-,Badly Poisoned,The Pokémon takes gradually worsening damage every time it attacks. Its natural HP recovery is also stopped.,,Skull_Purple,
-,Reflect,The Pokémon takes half damage from physical attacks. ,,Shield_Blue,
-,Light Screen,The Pokémon takes half damage from special attacks. ,,Shield_Yellow,
-,Phantom Force,"The Pokémon vanished completely and can avoid moves and obstacles. It will reappear in a few turns, or when it chooses to attack.",,,
-,Shadow Force,"The Pokémon vanished completely and can avoid moves and obstacles. Its Movement Speed is also boosted. It will reappear in a few turns, or when it chooses to attack.",,,
-,Future Sight,The Pokémon will be attacked a few turns in the future. ,,,
-,Doom Desire,The Pokémon will be attacked a few turns in the future. Nearby allies will also take splash damage when the attack hits.,,,
-,Conversion,The Pokémon will change its type to match its moves. ,,Cycle_Green,
-,Conversion 2,The Pokémon will change its type to resist incoming moves. ,,Cycle_White,
-,Enraged,The Pokémon will gain a boost to its Attack each time it takes damage from a move. ,,Fist_Yellow,
-,Wish,The Pokémon will have its HP restored a few turns in the future. The amount of HP restored depends on the Maximum HP of the user.,,Exclaim_Yellow,
-,Weakness Drain,The Pokémon will have its HP restored if hit by a super-effective move. ,,Cycle_DarkBlue,
-,Magic Coat,The Pokémon will reflect any moves that inflict status back at the user. ,,Shield_Green,
-,Mega Counter,The Pokémon will return damage from all attacks back at the user with double the power. ,,Shield_Pink,
-,Mini Counter,The Pokémon will return damage from all attacks back at the user with half the power.,,Shield_Pink,
-,Counter,The Pokémon will return damage from all attacks back at the user.,,Sword_Brown,
-,Physical Counter,The Pokémon will return damage from physical attacks back at the user with double the power. ,,,
-,Special Counter,The Pokémon will return damage from special attacks back at the user with double the power. ,,,
-,Burned,"The Pokémon will take some damage every turn, and its Attack will be lowered. ",,Burn,
-,Outrage,"The Pokémon will use Outrage repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",,,
-,Petal Dance,"The Pokémon will use Petal Dance repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",,,
-,Thrash,"The Pokémon will use Thrash repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",,,
-,Leech Seed,The Pokémon's HP is sapped and given to a foe every turn. This status wears off if there are no foes around.,,,
-,Pierce,The Pokémon's attacks and items can hit through multiple targets and walls.,,Sword_LightBlue,
-,Sure Shot,The Pokémon's attacks cannot miss. ,,Sword_LightBlue,
-,Recruit Boost,The Pokémon's chances of recruiting other members is temporarily increased.,,,
-,Ingrain,"The Pokémon's roots are planted in the ground, gradually restoring its HP and preventing it from moving. ",,,
-,Awakening,The Pokémon becomes stronger and will take no damage from the front. It will also trigger Mega Evolution if the Pokémon can Mega Evolve.,,,
-,Berserk,"The Pokémon will move in a random direction and attack randomly, including allies and dungeon walls.",,,
+Status,Description,Polar,Turns,Icon
+Miracle Eye,"All attacks made by the Pokémon will ignore the target's type, minor stats, and status.",+,,Sight_Red
+Exposed,"All attacks made on the Pokémon will ignore its type, minor stats, and status.",-,,Exposed_Yellow
+Area Counter,All damage done to this Pokémon of a certain category of moves will be reflected on all foes within 3 tiles. ,+,,Shield_DarkBlue
+Metal Burst,All damage done to this Pokémon will be reflected on all nearby foes. This status wears off if the Pokémon moves.,+,,Shield_DarkBlue
+Destiny Bond,Any damage done to this Pokémon from direct attacks is also done to the target of the Destiny Bond. This status wears off if the Pokémon moves.,+,,Skull_DarkBlue
+Grudge,Enemies that damage this Pokémon with attacks will have all their moves lose PP. ,,,Shield_Purple
+Pursuit,"Every time the target makes a move, this Pokémon will automatically warp to it. ",,,Exclaim_DarkBlue
+Regeneration,The Pokémon gradually regains HP each turn. ,,,Cycle_Green
+Poisoned,The Pokémon gradually takes damage every time it attacks.,,,Skull_White
+Type Converted,The Pokémon has all of its moves converted to a single type.,,,Sword_Yellow
+Illusion,The Pokémon has disguised itself as a different Pokémon.,,,
+Perish Song,"The Pokémon has heard Perish Song, and its HP will be set to 1 when the countdown reaches zero.",,,
+Blinker,"The Pokémon has its Attack Range limited, allowing it to hit only targets in front. ",,,Blind_Blue
+Type Boosted,The Pokémon has moves of a certain type boosted. ,,,Arrow_Up_Red
+Disable,The Pokémon has one of its moves disabled and cannot use it.,,,
+Zenith,"The Pokémon has reached Zenith state, and is ready to unleash a devastating Z-Move!",,,
+Stockpile,"The Pokémon has stockpiled energy, to use in the moves Swallow or Spit Up. It also increases its Defense and Special Defense. ",,,
+Shopkeeper,The Pokémon is a shopkeeper and cannot be recruited. Don't even try attacking it!,,,
+Power Charged,"The Pokémon is able to use moves without charging or recharging, and its PP is prevented from dropping. ",,,
+Asleep,The Pokémon is asleep and incapable of any action until it wakes up. This status wears off if the Pokémon is attacked.,,,Sleep
+Shadow,The Pokémon is being consumed by Shadow and can only be recruited after fainting it. You will need to purify them after!,,,
+Endure,"The Pokémon is bracing itself, preventing it from fainting from a direct attack. This status wears off if the Pokémon moves.",,,Exclaim_Red
+Aura Burst,The Pokémon is bursting with a fiery aura! All negative status conditions will only last 1 turn!,,,
+Charging Move,The Pokémon is charging an incredibly powerful move! It will unleash the move on its next turn.,,,
+Electric Charge,"The Pokémon is charging electrical energy, boosting the power of an Electric-type attack. ",,,
+Confused,"The Pokémon is confused, causing its movements and attacks to vary wildly. Attacks that target foes can also target friends, and vice versa.",,,Confuse
+Powder,The Pokémon is covered in a powder that causes an explosion when exposed to fire or electricity.,,,Exclaim_White
+Cringing,The Pokémon is cringing and cannot attack or use items. This status wears off on the next turn.,,,
+Cursed,The Pokémon is cursed and will take damage each time it attacks a foe. ,,,Skull_Red
+Digging,"The Pokémon is digging underground and can avoid most moves and obstacles. It will resurface in a few turns, or when it chooses to attack.",,,
+Rage Powder,The Pokémon is enraged by the enemy and cannot target anyone else with any moves or items. ,,,Fist_Red
+Telekinesis,"The Pokémon is floating from telekinesis, preventing it from moving or avoiding attacks. ",,,
+Flying,"The Pokémon is flying and can avoid most moves and obstacles. It will drop back down in a few turns, or when it chooses to attack.",,,
+Focus Energy,The Pokémon is focused and will land a critical hit. This status wears off if the Pokemon is hit.,,,Sword_Pink
+Frozen,The Pokémon is frozen and incapable of acting or being affected by moves. This status wears off if the Pokémon is hit by a Fire-type attack.,,,
+Encore,"The Pokémon is given an encore, forcing it to repeat the last move it used. ",,,Exclaim_Pink
+Super Mobile,The Pokémon is given the ability to traverse walls.,,,
+Slip,The Pokémon is given the ability to traverse water.,,,
+Diving,"The Pokémon is hiding underwater and can avoid most moves. It will resurface in a few turns, or when it chooses to attack.",,,
+Immobilized,The Pokémon is immobilized and cannot move. ,,,
+Bouncing,The Pokémon is in mid-air from a bounce and can avoid most moves. It will unleash the move on its next turn.,,,
+In Love,The Pokémon is infatuated with the enemy and cannot target it with any moves or items. ,,,Exclaim_Pink
+Invisible,The Pokémon is invisible and cannot be seen by other Pokémon. ,,,
+Magnet Rise,"The Pokémon is levitating with electromagnetism, allowing it to avoid Ground-type attacks. ",,,Cycle_Yellow
+Decoy,"The Pokémon is made into a Decoy, making it a target of everyone's attacks. ",,,
+Paralyzed,The Pokémon is paralyzed and cannot attack in consecutive turns. ,,,
+Heal Block,The Pokémon is prevented from restoring its HP. ,,,X_Gray
+Torment,The Pokémon is prevented from using the same move twice in a row. ,,,Exclaim_DarkBlue
+Status Protection,The Pokémon is protected from a certain status effect. ,,,Shield_Brown
+Detect,The Pokémon is protected from all moves. This status wears off if the Pokémon attacks.,,,Shield_Brown
+Protect,The Pokémon is protected from all moves. This status wears off if the Pokémon attacks.,,,Shield_Green
+Stat Charged,"The Pokémon is protected from all stat changes, including its own.",,,Cycle_White
+Lucky Chant,The Pokémon is protected from critical hits and the additional effects of attacking moves. ,,,Cycle_White
+Type Protected,The Pokémon is protected from moves of a certain type. ,,,Shield_Green
+Quick Guard,The Pokémon is protected from moves that have a long range.,,,Shield_Red
+Wide Guard,The Pokémon is protected from moves that hit in a wide range. ,,,Shield_White
+Safeguard,The Pokémon is protected from negative status effects with a veil. ,,,Shield_Tan
+Belch,"The Pokémon is ready to belch, unleashing the attack whenever it eats a food item. ",,,Exclaim_Purple
+Retaliate,"The Pokémon is ready to retaliate, unleashing the move whenever a nearby foe attacks an ally. ",,,Sword_Brown
+Snatch,The Pokémon is ready to snatch any stat-boosting move that foes use on themselves. ,,,Question_DarkBlue
+Fire Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. ,,,Sword_Brown
+Grass Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. ,,,Sword_Brown
+Water Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. ,,,Sword_Brown
+Bind,"The Pokémon is rendered incapable of any action, and takes gradual damage from the foe. ",,,
+Paused,The Pokémon is rendered incapable of taking any action. ,,,
+Embargo,"The Pokémon is rendered incapable of using any items, and its held item item loses its effect. ",,,X_Brown
+Roosting,"The Pokémon is roosting, eliminating its Flying-type matchups. This status wears off when the Pokémon moves.",~,,
+Biding,"The Pokémon is storing energy for an attack. In a few turns, it will unleash the energy, doing double the amount of damage it took while biding.",,,
+Aqua Ring,The Pokémon is surrounded by a veil of water that gradually restores its HP. ,,,Cycle_Blue
+Mist,"The Pokémon is surrounded in mist, preventing others from dropping its stats. ",,,Shield_White
+Taunted,The Pokémon is taunted into only using attacking moves. ,,,Fist_DarkBlue
+Follow Me,The Pokémon is the center of attention and will redirect any attack targetting its allies. ,,,Exclaim_Pink
+Infestation,"The Pokémon is trapped by an infestation, taking gradual damage and preventing it from moving. ",,,
+Fire Spin,"The Pokémon is trapped in a vortex of fire, taking gradual damage and preventing it from moving. ",,,
+Whirlpool,"The Pokémon is trapped in a whirlpool, taking gradual damage and preventing it from moving. ",,,
+Sand Tomb,"The Pokémon is trapped in quicksand, taking gradual damage and preventing it from moving. ",,,
+Vined,"The Pokémon is trapped in vines, taking gradual damage and preventing it from moving. ",,,
+Yawning,The Pokémon is yawning and will fall asleep in a few turns.,,,Yawn
+Nightmare,The Pokémon takes gradual damage every turn when it is sleeping. ,,,Skull_Pink
+Badly Poisoned,The Pokémon takes gradually worsening damage every time it attacks. Its natural HP recovery is also stopped.,,,Skull_Purple
+Reflect,The Pokémon takes half damage from physical attacks. ,,,Shield_Blue
+Light Screen,The Pokémon takes half damage from special attacks. ,,,Shield_Yellow
+Phantom Force,"The Pokémon vanished completely and can avoid moves and obstacles. It will reappear in a few turns, or when it chooses to attack.",,,
+Shadow Force,"The Pokémon vanished completely and can avoid moves and obstacles. Its Movement Speed is also boosted. It will reappear in a few turns, or when it chooses to attack.",,,
+Future Sight,The Pokémon will be attacked a few turns in the future. ,,,
+Doom Desire,The Pokémon will be attacked a few turns in the future. Nearby allies will also take splash damage when the attack hits.,,,
+Conversion,The Pokémon will change its type to match its moves. ,,,Cycle_Green
+Conversion 2,The Pokémon will change its type to resist incoming moves. ,,,Cycle_White
+Enraged,The Pokémon will gain a boost to its Attack each time it takes damage from a move. ,,,Fist_Yellow
+Wish,The Pokémon will have its HP restored a few turns in the future. The amount of HP restored depends on the Maximum HP of the user.,,,Exclaim_Yellow
+Weakness Drain,The Pokémon will have its HP restored if hit by a super-effective move. ,,,Cycle_DarkBlue
+Magic Coat,The Pokémon will reflect any moves that inflict status back at the user. ,,,Shield_Green
+Mega Counter,The Pokémon will return damage from all attacks back at the user with double the power. ,,,Shield_Pink
+Mini Counter,The Pokémon will return damage from all attacks back at the user with half the power.,,,Shield_Pink
+Counter,The Pokémon will return damage from all attacks back at the user.,,,Sword_Brown
+Physical Counter,The Pokémon will return damage from physical attacks back at the user with double the power. ,,,
+Special Counter,The Pokémon will return damage from special attacks back at the user with double the power. ,,,
+Burned,"The Pokémon will take some damage every turn, and its Attack will be lowered. ",,,Burn
+Outrage,"The Pokémon will use Outrage repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",,,
+Petal Dance,"The Pokémon will use Petal Dance repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",,,
+Thrash,"The Pokémon will use Thrash repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",,,
+Leech Seed,The Pokémon's HP is sapped and given to a foe every turn. This status wears off if there are no foes around.,,,
+Pierce,The Pokémon's attacks and items can hit through multiple targets and walls.,,,Sword_LightBlue
+Sure Shot,The Pokémon's attacks cannot miss. ,,,Sword_LightBlue
+Recruit Boost,The Pokémon's chances of recruiting other members is temporarily increased.,,,
+Ingrain,"The Pokémon's roots are planted in the ground, gradually restoring its HP and preventing it from moving. ",,,
+Awakening,The Pokémon becomes stronger and will take no damage from the front. It will also trigger Mega Evolution if the Pokémon can Mega Evolve.,,,
+Berserk,"The Pokémon will move in a random direction and attack randomly, including allies and dungeon walls.",,,

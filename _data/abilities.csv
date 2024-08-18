@@ -100,7 +100,7 @@ ID,Name,Generation,Delta Exclusive,Description
 99,No Guard,4,No,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.
 100,Stall,4,No,The Pokémon is always the last to use its moves.
 101,Technician,4,No,Powers up weak moves so the Pokémon can deal more damage with them.
-102,Leaf Guard,4,No,Prevents status conditions in harsh sunlight.
+102,Leaf Guard,4,No,Gives the Safeguard status condition when under harsh sunlight.
 103,Klutz,4,No,The Pokémon can't use any held items.
 104,Mold Breaker,4,No,The Pokémon's moves are unimpeded by the Ability of the target.
 105,Super Luck,4,No,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.
