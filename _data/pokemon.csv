@@ -24,20 +24,20 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 18,17,Pidgeot,Bird Pokémon,Common,No,Normal,Flying,Flying,,Keen Eye,Tangled Feet,Big Pecks,83,80,75,70,70,101,479,150,"4'11""",40,87,Wings,0.5,Slow,60,-57,45,216,15
 18M,18,Pidgeot (Mega Pidgeot),Bird Pokémon,Common,No,Normal,Flying,Flying,,No Guard,Tangled Feet,Big Pecks,83,80,80,135,80,121,579,221,"7'03""",50,111,Wings,0.5,Slow,60,-57,45,216,15
 19,,Rattata,Mouse Pokémon,Common,No,Normal,,Field,,Run Away,Guts,Hustle,30,56,35,25,35,72,253,30,"1'00""",3,8,Quadruped,0.5,Fast,70,70,255,51,15
-19A,,Rattata (Alola Form),Mouse Pokémon,Common,No,Dark,Normal,Field,,Gluttony,Hustle,Thick Fat,30,56,35,25,35,72,253,30,"1'00""",4,8,Quadruped,0.5,Fast,70,70,255,51,15
+19A,,Rattata (Delta Form),Mouse Pokémon,Common,No,Dark,Normal,Field,,Gluttony,Hustle,Thick Fat,30,56,35,25,35,72,253,30,"1'00""",4,8,Quadruped,0.5,Fast,70,70,255,51,15
 20,19,Raticate,Mouse Pokémon,Common,No,Normal,,Field,,Run Away,Guts,Hustle,55,81,60,50,70,97,413,71,"2'04""",19,41,Quadruped,0.5,Fast,70,-11,127,145,15
-20A,19A,Raticate (Alola Form),Mouse Pokémon,Common,No,Dark,Normal,Field,,Gluttony,Hustle,Thick Fat,75,71,70,40,80,77,413,71,"2'04""",25,56,Quadruped,0.5,Fast,70,-11,127,145,15
+20A,19A,Raticate (Delta Form),Mouse Pokémon,Common,No,Dark,Normal,Field,,Gluttony,Hustle,Thick Fat,75,71,70,40,80,77,413,71,"2'04""",25,56,Quadruped,0.5,Fast,70,-11,127,145,15
 21,,Spearow,Tiny Bird Pokémon,Common,No,Normal,Flying,Flying,,Keen Eye,Infiltrator,Sniper,40,60,30,31,31,70,262,30,"1'00""",2,4,Wings,0.5,Fast,70,70,255,52,15
 22,21,Fearow,Beak Pokémon,Common,No,Normal,Flying,Flying,,Keen Eye,Infiltrator,Sniper,65,90,65,61,61,100,442,119,"3'11""",38,84,Wings,0.5,Fast,70,-15,90,155,15
 23,,Ekans,Snake Pokémon,Common,No,Poison,,Field,Dragon,Intimidate,Shed Skin,Unnerve,35,60,44,40,54,55,288,201,"6'07""",7,15,Squiggle,0.5,Fast,70,70,255,58,20
 24,23,Arbok,Cobra Pokémon,Common,No,Poison,,Field,Dragon,Intimidate,Shed Skin,Unnerve,60,95,69,65,79,80,448,351,"11'06""",65,143,Squiggle,0.5,Fast,70,-15,90,157,20
 25,172,Pikachu,Mouse Pokémon,Uncommon,Pika,Electric,,Field,Fairy,Static,Cheek Pouch,Lightning Rod,35,55,40,50,50,90,320,41,"1'04""",6,13,Quadruped,0.5,Fast,50,35,190,112,10
 26,25,Raichu,Mouse Pokémon,Uncommon,No,Electric,Psychic,Field,Fairy,Static,Cheek Pouch,Lightning Rod,60,90,55,90,80,110,485,79,"2'07""",30,66,Upright,0.5,Fast,40,-51,75,243,10
-26A,25,Raichu (Alola Form),Mouse Pokémon,Uncommon,No,Electric,Water,Field,Fairy,Surge Surfer,Galvanize,Lightning Rod,60,85,50,95,85,110,485,71,"2'04""",21,46,Upright,0.5,Fast,40,-51,75,243,10
+26A,25,Raichu (Delta Form),Mouse Pokémon,Uncommon,No,Electric,Water,Field,Fairy,Surge Surfer,Galvanize,Lightning Rod,60,85,50,95,85,110,485,71,"2'04""",21,46,Upright,0.5,Fast,40,-51,75,243,10
 27,,Sandshrew,Mouse Pokémon,Uncommon,Special,Ground,,Field,,Sand Veil,Tough Claws,Sand Rush,50,75,85,20,30,40,300,61,"2'00""",12,27,Upright,0.5,Fast,50,70,255,60,20
-27A,,Sandshrew (Alola Form),Mouse Pokémon,Uncommon,Special,Ice,Steel,Field,,Snow Cloak,Ice Body,Slush Rush,50,75,90,10,35,40,300,71,"2'04""",40,88,Upright,0.5,Fast,50,70,255,60,20
+27A,,Sandshrew (Delta Form),Mouse Pokémon,Uncommon,Special,Ice,Steel,Field,,Snow Cloak,Ice Body,Slush Rush,50,75,90,10,35,40,300,71,"2'04""",40,88,Upright,0.5,Fast,50,70,255,60,20
 28,27,Sandslash,Mouse Pokémon,Uncommon,No,Ground,Steel,Field,,Sand Veil,Tough Claws,Sand Rush,75,100,110,45,55,65,450,99,"3'03""",29,65,Upright,0.5,Fast,50,-15,90,158,20
-28A,27A,Sandslash (Alola Form),Mouse Pokémon,Uncommon,No,Ice,Steel,Field,,Snow Cloak,Ice Body,Slush Rush,75,100,120,25,65,65,450,119,"3'11""",55,121,Upright,0.5,Fast,50,-15,90,158,20
+28A,27A,Sandslash (Delta Form),Mouse Pokémon,Uncommon,No,Ice,Steel,Field,,Snow Cloak,Ice Body,Slush Rush,75,100,120,25,65,65,450,119,"3'11""",55,121,Upright,0.5,Fast,50,-15,90,158,20
 29,,Nidoran♀,Poison Pin Pokémon,Common,No,Poison,,Monster,Field,Poison Point,Rivalry,Hustle,55,47,52,40,40,41,275,41,"1'04""",7,15,Quadruped,0,Slow,50,65,235,55,20
 30,29,Nidorina,Poison Pin Pokémon,Common,No,Poison,,Undiscovered,,Poison Point,Rivalry,Hustle,70,62,67,55,55,56,365,79,"2'07""",20,44,Quadruped,0,Slow,50,12,120,128,20
 31,30,Nidoqueen,Drill Pokémon,Common,No,Poison,Ground,Undiscovered,,Poison Point,Rivalry,Sheer Force,90,92,87,75,85,76,505,130,"4'03""",60,132,Upright,0,Slow,40,-57,45,253,20
@@ -47,9 +47,9 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 35,173,Clefairy,Fairy Pokémon,Common,No,Fairy,,Fairy,,Cute Charm,Magic Guard,Friend Guard,70,45,48,60,65,35,323,61,"2'00""",7,17,Upright,0.25,Very Fast,100,22,150,113,10
 36,35,Clefable,Fairy Pokémon,Common,No,Fairy,,Fairy,,Cute Charm,Magic Guard,Unaware,95,70,73,95,90,60,483,130,"4'03""",40,88,Upright,0.25,Very Fast,100,-70,25,242,10
 37,,Vulpix,Fox Pokémon,Rare,Special,Fire,,Field,,Flash Fire,Flame Body,Drought,38,41,40,50,65,65,299,61,"2'00""",10,22,Quadruped,0.25,Fast,50,48,190,60,20
-37A,,Vulpix (Alola Form),Fox Pokémon,Rare,Special,Ice,,Field,,Snow Cloak,Fluffy,Snow Warning,38,41,40,50,65,65,299,61,"2'00""",10,22,Quadruped,0.25,Fast,50,48,190,60,20
+37A,,Vulpix (Delta Form),Fox Pokémon,Rare,Special,Ice,,Field,,Snow Cloak,Fluffy,Snow Warning,38,41,40,50,65,65,299,61,"2'00""",10,22,Quadruped,0.25,Fast,50,48,190,60,20
 38,37,Ninetales,Fox Pokémon,Rare,No,Fire,,Field,,Flash Fire,Flame Body,Drought,73,76,75,81,100,100,505,109,"3'07""",20,44,Quadruped,0.25,Fast,40,-25,75,177,20
-38A,37A,Ninetales (Alola Form),Fox Pokémon,Rare,No,Ice,Fairy,Field,,Snow Cloak,Fluffy,Snow Warning,73,67,75,81,100,109,505,109,"3'07""",20,44,Quadruped,0.25,Fast,40,-25,75,177,20
+38A,37A,Ninetales (Delta Form),Fox Pokémon,Rare,No,Ice,Fairy,Field,,Snow Cloak,Fluffy,Snow Warning,73,67,75,81,100,109,505,109,"3'07""",20,44,Quadruped,0.25,Fast,40,-25,75,177,20
 39,174,Jigglypuff,Balloon Pokémon,Uncommon,No,Normal,Fairy,Fairy,,Cute Charm,Competitive,Friend Guard,115,45,20,45,25,20,270,51,"1'08""",5,12,Humanoid,0.25,Very Fast,50,25,170,95,10
 40,39,Wigglytuff,Balloon Pokémon,Uncommon,No,Normal,Fairy,Fairy,,Cute Charm,Competitive,Frisk,140,70,45,85,50,45,435,99,"3'03""",12,27,Humanoid,0.25,Very Fast,40,-56,50,218,10
 41,,Zubat,Bat Pokémon,Common,No,Poison,Flying,Flying,,Inner Focus,Gluttony,Infiltrator,40,45,35,30,40,55,245,79,"2'07""",7,17,Wings,0.5,Fast,50,70,255,49,15
@@ -62,13 +62,13 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 48,,Venonat,Insect Pokémon,Common,No,Bug,Poison,Bug,,Compound Eyes,Tinted Lens,Run Away,60,55,50,40,55,45,305,99,"3'03""",30,66,Humanoid,0.5,Fast,70,48,190,61,20
 49,48,Venomoth,Poison Moth Pokémon,Common,No,Bug,Poison,Bug,,Shield Dust,Tinted Lens,Wonder Skin,70,65,60,90,75,90,450,150,"4'11""",13,28,Bug,0.5,Fast,60,-25,75,158,20
 50,,Diglett,Mole Pokémon,Common,No,Ground,,Field,,Sand Veil,Arena Trap,Sand Force,10,55,25,35,45,95,265,20,"0'08""",1,2,Blob,0.5,Fast,50,70,255,53,20
-50A,,Diglett (Alola Form),Mole Pokémon,Common,No,Ground,Steel,Field,,Sand Veil,Tangling Hair,Sand Force,10,55,30,35,45,90,265,20,"0'08""",1,2,Blob,0.5,Fast,50,70,255,53,20
+50A,,Diglett (Delta Form),Mole Pokémon,Common,No,Ground,Steel,Field,,Sand Veil,Tangling Hair,Sand Force,10,55,30,35,45,90,265,20,"0'08""",1,2,Blob,0.5,Fast,50,70,255,53,20
 51,50,Dugtrio,Mole Pokémon,Common,No,Ground,,Field,,Sand Veil,Arena Trap,Sand Force,35,100,50,50,70,120,425,71,"2'04""",33,73,Heads,0.5,Fast,40,-29,50,149,20
-51A,50A,Dugtrio (Alola Form),Mole Pokémon,Common,No,Ground,Steel,Field,,Sand Veil,Tangling Hair,Sand Force,35,100,60,50,70,110,425,71,"2'04""",67,147,Heads,0.5,Fast,40,-29,50,149,20
+51A,50A,Dugtrio (Delta Form),Mole Pokémon,Common,No,Ground,Steel,Field,,Sand Veil,Tangling Hair,Sand Force,35,100,60,50,70,110,425,71,"2'04""",67,147,Heads,0.5,Fast,40,-29,50,149,20
 52,,Meowth,Scratch Cat Pokémon,Uncommon,Special,Normal,,Field,,Pickup,Technician,Unnerve,40,45,35,40,40,90,290,41,"1'04""",4,9,Quadruped,0.5,Fast,50,70,255,58,20
-52A,,Meowth (Alola Form),Scratch Cat Pokémon,Uncommon,No,Dark,,Field,,Pickup,Technician,Rattled,40,35,35,50,40,90,290,41,"1'04""",4,9,Quadruped,0.5,Fast,50,70,255,58,20
+52A,,Meowth (Delta Form),Scratch Cat Pokémon,Uncommon,No,Dark,,Field,,Pickup,Technician,Rattled,40,35,35,50,40,90,290,41,"1'04""",4,9,Quadruped,0.5,Fast,50,70,255,58,20
 53,52,Persian,Classy Cat Pokémon,Uncommon,No,Normal,,Field,,Limber,Technician,Unnerve,65,70,60,65,65,115,440,99,"3'03""",32,71,Quadruped,0.5,Fast,50,-15,90,154,20
-53A,52A,Persian (Alola Form),Classy Cat Pokémon,Uncommon,No,Dark,,Field,,Fur Coat,Technician,Rattled,65,60,60,75,65,115,440,109,"3'07""",33,73,Quadruped,0.5,Fast,50,-15,90,154,20
+53A,52A,Persian (Delta Form),Classy Cat Pokémon,Uncommon,No,Dark,,Field,,Fur Coat,Technician,Rattled,65,60,60,75,65,115,440,109,"3'07""",33,73,Quadruped,0.5,Fast,50,-15,90,154,20
 54,,Psyduck,Duck Pokémon,Uncommon,Special,Water,,Water 1,Field,Damp,Cloud Nine,Swift Swim,50,52,48,65,50,55,320,79,"2'07""",20,43,Upright,0.5,Fast,50,48,190,64,20
 55,54,Golduck,Duck Pokémon,Uncommon,No,Water,,Water 1,Field,Damp,Cloud Nine,Swift Swim,80,82,78,95,80,85,500,170,"5'07""",77,169,Upright,0.5,Fast,40,-25,75,175,20
 56,,Mankey,Pig Monkey Pokémon,Common,No,Fighting,,Field,,Vital Spirit,Anger Point,Defiant,40,80,35,35,45,70,305,51,"1'08""",28,62,Upright,0.5,Fast,70,48,190,61,20
@@ -91,11 +91,11 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 72,,Tentacool,Jellyfish Pokémon,Common,No,Water,Poison,Water 3,,Clear Body,Liquid Ooze,Rain Dish,40,40,35,50,100,70,335,89,"2'11""",45,100,Tentacles,0.5,Very Slow,50,48,190,67,20
 73,72,Tentacruel,Jellyfish Pokémon,Common,No,Water,Poison,Water 3,,Clear Body,Liquid Ooze,Rain Dish,80,70,65,80,120,100,515,160,"5'03""",55,121,Tentacles,0.5,Very Slow,40,-26,60,180,20
 74,,Geodude,Rock Pokémon,Common,No,Rock,Ground,Mineral,,Rock Head,Sturdy,Sand Veil,40,80,100,30,30,20,300,41,"1'04""",20,44,Arms,0.5,Slow,70,70,255,60,15
-74A,,Geodude (Alola Form),Rock Pokémon,Common,No,Rock,Electric,Mineral,,Magnet Pull,Sturdy,Galvanize,40,80,100,30,30,20,300,41,"1'04""",20,45,Arms,0.5,Slow,70,70,255,60,15
+74A,,Geodude (Delta Form),Rock Pokémon,Common,No,Rock,Electric,Mineral,,Magnet Pull,Sturdy,Galvanize,40,80,100,30,30,20,300,41,"1'04""",20,45,Arms,0.5,Slow,70,70,255,60,15
 75,74,Graveler,Rock Pokémon,Common,No,Rock,Ground,Mineral,,Rock Head,Sturdy,Sand Veil,55,95,115,45,45,35,390,99,"3'03""",105,232,Humanoid,0.5,Slow,70,12,120,137,15
-75A,74A,Graveler (Alola Form),Rock Pokémon,Common,No,Rock,Electric,Mineral,,Magnet Pull,Sturdy,Galvanize,55,95,115,45,45,35,390,99,"3'03""",110,243,Humanoid,0.5,Slow,70,12,120,137,15
+75A,74A,Graveler (Delta Form),Rock Pokémon,Common,No,Rock,Electric,Mineral,,Magnet Pull,Sturdy,Galvanize,55,95,115,45,45,35,390,99,"3'03""",110,243,Humanoid,0.5,Slow,70,12,120,137,15
 76,75,Golem,Megaton Pokémon,Common,No,Rock,Ground,Mineral,,Rock Head,Sturdy,Sand Veil,80,120,130,55,65,45,495,140,"4'07""",300,661,Humanoid,0.5,Slow,60,-57,45,223,15
-76A,75A,Golem (Alola Form),Megaton Pokémon,Common,No,Rock,Electric,Mineral,,Magnet Pull,Sturdy,Galvanize,80,120,130,55,65,45,495,170,"5'07""",316,697,Humanoid,0.5,Slow,60,-57,45,223,15
+76A,75A,Golem (Delta Form),Megaton Pokémon,Common,No,Rock,Electric,Mineral,,Magnet Pull,Sturdy,Galvanize,80,120,130,55,65,45,495,170,"5'07""",316,697,Humanoid,0.5,Slow,60,-57,45,223,15
 77,,Ponyta,Fire Horse Pokémon,Common,No,Fire,,Field,,Run Away,Flash Fire,Flame Body,50,85,55,65,65,90,410,99,"3'03""",30,66,Quadruped,0.5,Fast,50,48,190,82,20
 78,77,Rapidash,Fire Horse Pokémon,Common,No,Fire,,Field,,Run Away,Flash Fire,Flame Body,65,100,70,80,80,105,500,170,"5'07""",95,209,Quadruped,0.5,Fast,40,-26,60,175,20
 79,,Slowpoke,Dopey Pokémon,Common,No,Water,Psychic,Monster,Water 1,Oblivious,Own Tempo,Regenerator,90,65,65,40,40,15,315,119,"3'11""",36,79,Quadruped,0.5,Fast,50,48,190,63,20
@@ -109,9 +109,9 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 86,,Seel,Sea Lion Pokémon,Common,No,Water,,Water 1,Field,Thick Fat,Hydration,Ice Body,65,45,55,45,70,45,325,109,"3'07""",90,198,Fish,0.5,Fast,70,48,190,65,20
 87,86,Dewgong,Sea Lion Pokémon,Common,No,Water,Ice,Water 1,Field,Thick Fat,Hydration,Ice Body,90,70,80,70,95,70,475,170,"5'07""",120,265,Fish,0.5,Fast,60,-25,75,166,20
 88,,Grimer,Sludge Pokémon,Common,No,Poison,,Amorphous,,Stench,Sticky Hold,Poison Touch,80,80,50,40,50,25,325,89,"2'11""",30,66,Arms,0.5,Fast,70,48,190,65,20
-88A,,Grimer (Alola Form),Sludge Pokémon,Common,No,Poison,Dark,Amorphous,,Poison Touch,Gluttony,Power of Alchemy,80,80,50,40,50,25,325,71,"2'04""",42,93,Arms,0.5,Fast,70,48,190,65,20
+88A,,Grimer (Delta Form),Sludge Pokémon,Common,No,Poison,Dark,Amorphous,,Poison Touch,Gluttony,Power of Alchemy,80,80,50,40,50,25,325,71,"2'04""",42,93,Arms,0.5,Fast,70,48,190,65,20
 89,88,Muk,Sludge Pokémon,Common,No,Poison,,Amorphous,,Stench,Sticky Hold,Poison Touch,105,105,75,65,100,50,500,119,"3'11""",30,66,Arms,0.5,Fast,60,-25,75,175,20
-89A,88A,Muk (Alola Form),Sludge Pokémon,Common,No,Poison,Dark,Amorphous,,Poison Touch,Gluttony,Power of Alchemy,105,105,75,65,100,50,500,99,"3'03""",52,115,Arms,0.5,Fast,60,-25,75,175,20
+89A,88A,Muk (Delta Form),Sludge Pokémon,Common,No,Poison,Dark,Amorphous,,Poison Touch,Gluttony,Power of Alchemy,105,105,75,65,100,50,500,99,"3'03""",52,115,Arms,0.5,Fast,60,-25,75,175,20
 90,,Shellder,Bivalve Pokémon,Common,No,Water,,Water 3,,Shell Armor,Skill Link,Overcoat,30,65,100,45,25,40,305,30,"1'00""",4,9,Ball,0.5,Very Slow,50,48,190,61,20
 91,90,Cloyster,Bivalve Pokémon,Common,No,Water,Ice,Water 3,,Shell Armor,Skill Link,Overcoat,50,95,180,85,45,70,525,150,"4'11""",132,292,Ball,0.5,Very Slow,40,-26,60,184,20
 92,,Gastly,Gas Pokémon,Uncommon,No,Ghost,Poison,Amorphous,,Levitate,Corrosion,Prankster,30,35,30,100,35,80,310,130,"4'03""",0,0,Ball,0.5,Slow,50,48,190,62,20
@@ -127,10 +127,10 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 101,100,Electrode,Ball Pokémon,Common,No,Electric,,Mineral,,Soundproof,Static,Aftermath,60,50,70,80,80,150,490,119,"3'11""",67,147,Ball,,Fast,60,-26,60,172,20
 102,,Exeggcute,Egg Pokémon,Common,No,Grass,Psychic,Grass,,Chlorophyll,Vital Spirit,Harvest,60,40,80,60,45,40,325,41,"1'04""",2,6,Heads,0.5,Very Slow,50,25,90,65,20
 103,102,Exeggutor,Coconut Pokémon,Common,No,Grass,Psychic,Grass,,Chlorophyll,Vital Spirit,Harvest,95,95,85,125,75,55,530,201,"6'07""",120,265,Legs,0.5,Very Slow,40,-30,45,186,20
-103A,102,Exeggutor (Alola Form),Coconut Pokémon,Common,No,Grass,Dragon,Grass,,Frisk,Chlorophyll,Harvest,95,105,85,125,75,45,530,1090,"35'09""",416,916,Legs,0.5,Very Slow,40,-30,45,186,20
+103A,102,Exeggutor (Delta Form),Coconut Pokémon,Common,No,Grass,Dragon,Grass,,Frisk,Chlorophyll,Harvest,95,105,85,125,75,45,530,1090,"35'09""",416,916,Legs,0.5,Very Slow,40,-30,45,186,20
 104,,Cubone,Lonely Pokémon,Uncommon,Special,Ground,,Monster,,Rock Head,Lightning Rod,Battle Armor,50,50,95,40,50,35,320,41,"1'04""",6,14,Upright,0.5,Fast,50,48,190,64,20
 105,104,Marowak,Bone Keeper Pokémon,Uncommon,No,Ground,,Monster,,Rock Head,Lightning Rod,Battle Armor,60,80,110,50,80,45,425,99,"3'03""",45,99,Upright,0.5,Fast,40,-25,75,149,20
-105A,104,Marowak (Alola Form),Bone Keeper Pokémon,Uncommon,No,Fire,Ghost,Monster,,Cursed Body,Lightning Rod,Rock Head,60,80,110,50,80,45,425,99,"3'03""",34,75,Upright,0.5,Fast,40,-25,75,149,20
+105A,104,Marowak (Delta Form),Bone Keeper Pokémon,Uncommon,No,Fire,Ghost,Monster,,Cursed Body,Lightning Rod,Rock Head,60,80,110,50,80,45,425,99,"3'03""",34,75,Upright,0.5,Fast,40,-25,75,149,20
 106,236,Hitmonlee,Kicking Pokémon,Common,No,Fighting,,Human-Like,,Limber,Reckless,Unburden,50,120,53,35,110,87,455,150,"4'11""",50,110,Humanoid,1,Fast,40,-30,45,159,25
 107,236,Hitmonchan,Punching Pokémon,Common,No,Fighting,,Human-Like,,Keen Eye,Iron Fist,Inner Focus,50,105,79,35,110,76,455,140,"4'07""",50,111,Humanoid,1,Fast,40,-30,45,159,25
 108,,Lickitung,Licking Pokémon,Common,No,Normal,,Monster,,Own Tempo,Oblivious,Cloud Nine,90,55,75,60,75,30,385,119,"3'11""",65,144,Upright,0.5,Fast,50,-10,45,77,20
