@@ -30,13 +30,13 @@ _You can also use one underscore._
 
 *~~You can do the same~~ in reverse, and **even** in between.*
 
-> This is a quote, using a GreaterThan sign.
+> This is a quote, using a GreaterThan sign and a space.
 
 Smol text at the <sub>bottom</sub> using HTML subscript tags.
 
 Smol text at the <sup>top</sup> using HTML superscript tags.
 
-Use a colon one line below to describe a term.
+Use a colon one line below to describe a term. This will also automatically add a colon to the term title
 : Description of the term.
 
 Add `{: .label .label-color }`, replacing color with one of the colors below to create labels.
@@ -87,14 +87,14 @@ Or 10.
 - You can also use
 - A dash and space instead.
 
-* [ ] Add square brackets and a space next to an unordered item to create checkmarks.
-* [x] You can add an x (lowercase) instead of a space to mark the item done.
+* [ ] Use an asterisk, space, open square bracket, space, closed square bracket, and space, to add a checkmark.
+* [x] You can add an x (lowercase) instead of the space between the square brackets to mark the item done.
 
 1. You can use 1
-2. For every row
-3. To allow Markdown
-4. To number the list
-5. Automatically.
+1. For every row
+1. To allow Markdown
+1. To number the list
+1. Automatically.
 
 * Use tabs
   * To add layers
@@ -114,8 +114,6 @@ Nesting an unordered list inside an ordered list inside an unordered list.
     - level 3 item (Unordered)
       1. level 4 item (Ordered)
       1. level 4 item (Ordered)
-    - level 3 item (Unordered)
-    - level 3 item (Unordered)
 - level 1 item (Unordered)
 
 Asterisk, space, asterisk, space, asterisk...
@@ -125,15 +123,15 @@ Asterisk, space, asterisk, space, asterisk...
 `Use grave accents for tiny code or keywords.`
 
 ```js
-// Use three grave accents and the language to create code blocks. Here's some meme js.
+// Use three grave accents, the language, and a linebreak to create code blocks. Here's some meme js.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
 ```
-
-```md
-Specify md to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
+End the code block with a linebreak, another three grave accents and a linebreak.
+```
+Specify no language to display normal text that shows a copy button when hovered. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ```
 
 To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces.
@@ -146,23 +144,22 @@ Add `{: .btn }` next to ) to create a button.
 [The two links above,](./index.md){: .btn }
 [But as buttons.](https://www.youtube.com/watch?v=dQw4w9WgXcQ){: .btn }
 
-[You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
+[You can link files too. If the file can't display on a browser window, a download will start.](https://avatars.githubusercontent.com/u/24918282)
 
 Add ! at the beginning before the square parenthesis to embed. You cannot embed links or webpages, only files. There's no need to put anything inside the square parenthesis when you're embedding.
 
-This is a smol PNG one line below.
-![](https://static.f-list.net/images/avatar/tokumei%20kii.png)
+This is a PNG one line below.
+![](https://avatars.githubusercontent.com/u/24918282)
 
-This is a l o r g e PNG two lines below.
+This is a PNG two lines below.
 
-![](./Comparisons/Zorua Zoroark.png)
+![](https://avatars.githubusercontent.com/u/24918282)
 
-Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
+Embedded files cannot be bigger than 8192KB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
-Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
+Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox based web browsers. ARM devices or anything that isn't x86 will not work.
 
-|Use vertical bars to create a table.|Use monospace fonts to avoid confusion.|
-|Cells can vary in width|And do not need to be perfectly aligned within columns.|
+|Use vertical bars to create a table.|Cells can vary in width|And do not need to be perfectly aligned|Within columns|
 
 | Left                        | Center           |              Right |
 |:----------------------------|:----------------:|-------------------:|
