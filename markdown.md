@@ -155,7 +155,7 @@ This is a PNG two lines below.
 
 ![](https://avatars.githubusercontent.com/u/24918282)
 
-Embedded files cannot be bigger than 8192KB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
+Embedded files cannot be bigger than 10MB (Recommended staying below 8MB), and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox based web browsers. ARM devices or anything that isn't x86 will not work.
 
